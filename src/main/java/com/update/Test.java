@@ -22,6 +22,7 @@ public class Test {
 		session.close();
 		sessionFactory.close();
 		System.out.println("Record update successfully");
+		System.out.println("Update operation done")
 	}
 
 }
